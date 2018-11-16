@@ -1,0 +1,1 @@
+Contains the material and work for Andrew Ng's machine learning course on Coursera
